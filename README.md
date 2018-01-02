@@ -10,7 +10,6 @@ what I am doing here? who knowss!
 
 And then, some...     
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-fKiGCq7In13bCX9eEpOwO8Dyvf9obxZD2BgyMcb84n0nUzEzr7tVISrvfjEdXT4kYBVRwkg-aocQ/pubhtml?gid=946330930&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
